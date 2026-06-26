@@ -3,6 +3,7 @@
     "use_route_short_name_for_route_id": true,
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
+    "trip_id_cleanup_regex": "t_|_b_\\d+_tn",
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
     "stop_name_cleaners": []
