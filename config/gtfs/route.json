@@ -1,6 +1,12 @@
 {
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "11 & 12",
+            "route_id": 110120
+        }
+    ],
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
     "direction_headsign_ignore_provided_direction": true,
