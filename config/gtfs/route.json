@@ -9,7 +9,7 @@
     ],
     "route_short_name_cleaners": [
         {
-            "regex": "^route\\s*"
+            "regex": "^route\\s*",
             "ignore_case": true,
             "comment": "Remove starts with 'route '"
         }
